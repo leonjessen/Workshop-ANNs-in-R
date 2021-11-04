@@ -28,7 +28,8 @@ rstudioapi::restartSession()
 
 
 # Set python environment --------------------------------------------------
-path_python = "~/.virtualenvs/r-reticulate/bin/python"
+#path_python = "~/.virtualenvs/r-reticulate/bin/python" # Local
+path_python = "/cloud/project/r-reticulate/bin/python" # RStudio Cloud
 Sys.setenv(RETICULATE_PYTHON = path_python)
 library("reticulate")
 use_python(path_python, required = TRUE)
