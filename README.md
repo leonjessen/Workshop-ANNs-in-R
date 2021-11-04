@@ -40,7 +40,7 @@ Total time 4h:
     Networks](short_talks/01_introduction_to_artificial_neural_networks.html)
 
 -   00.20 - 00.50 (30min) [Exercise 1: Prototyping an ANN in
-    R](https://htmlpreview.github.io/?https://github.com/leonjessen/workshop_anns_in_r/blob/main/Exercises/00_exercises.html#1_Prototyping_an_ANN_in_R)
+    R](https://htmlpreview.github.io/?https://github.com/leonjessen/workshop_anns_in_r/blob/main/exercises/00_exercises.html)
 
 -   00.50 - 01.00 (10min) Break I
 
@@ -52,7 +52,7 @@ Total time 4h:
     in R part 1](short_talks/02_introduction_to_keras_1.html)
 
 -   01.10 - 01.30 (20min) [Exercise 2: TensorFlow
-    Playground](https://htmlpreview.github.io/?https://github.com/leonjessen/workshop_anns_in_r/blob/main/Exercises/00_exercises.html#2_TensorFlow_Playground)
+    Playground](https://htmlpreview.github.io/?https://github.com/leonjessen/workshop_anns_in_r/blob/main/exercises/00_exercises.html)
 
 -   01.30 - 01.40 (10min) Exercise 2 walk-through
 
@@ -67,7 +67,7 @@ Total time 4h:
 #### Hour 3
 
 -   02.00 - 02.30 (30min) [Exercise 3: Hello
-    Keras](https://htmlpreview.github.io/?https://github.com/leonjessen/workshop_anns_in_r/blob/main/Exercises/00_exercises.html#3_Hello_Keras)
+    Keras](https://htmlpreview.github.io/?https://github.com/leonjessen/workshop_anns_in_r/blob/main/exercises/00_exercises.html)
 
 -   02.30 - 02.45 (15min) [Brief talk and exercise 3 walk-through: A bit
     more on Keras](short_talks/05_a_bit_more_on_keras.html)
@@ -79,13 +79,13 @@ Total time 4h:
 -   03.00 - 03.30 (30min) Exercise 4: Now, you must choose between:
 
     -   [Exercise 4a: Predicting commodity prices
-        (regression)](https://htmlpreview.github.io/?https://github.com/leonjessen/workshop_anns_in_r/blob/main/Exercises/00_exercises.html#4a_Predicting_commodity_prices_(regression))
+        (regression)](https://htmlpreview.github.io/?https://github.com/leonjessen/workshop_anns_in_r/blob/main/exercises/00_exercises.html)
         or
     -   [Exercise 4b: Deep Learning for Cancer Immunotherapy
-        (Classification)](https://htmlpreview.github.io/?https://github.com/leonjessen/workshop_anns_in_r/blob/main/Exercises/00_exercises.html#4b_Deep_Learning_for_Cancer_Immunotherapy_(Classification))
+        (Classification)](https://htmlpreview.github.io/?https://github.com/leonjessen/workshop_anns_in_r/blob/main/exercises/00_exercises.html)
 
 -   03.30 - 03.55 (25min) [Exercise 5: A Case
-    Story](https://htmlpreview.github.io/?https://github.com/leonjessen/workshop_anns_in_r/blob/main/Exercises/00_exercises.html#5_A_Case_Story)
+    Story](https://htmlpreview.github.io/?https://github.com/leonjessen/workshop_anns_in_r/blob/main/exercises/00_exercises.html)
 
 -   03.55 - 04.00 (5min) [Brief talk and exercise 5 walk-through:
     Session 2 Summary](short_talks/06_session_2_summary.html)
